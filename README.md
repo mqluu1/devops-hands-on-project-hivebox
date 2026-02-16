@@ -52,4 +52,21 @@ Here is a pre-start checklist:
 
 ## Implementation
 
-** ADD YOUR IMPLEMENTATION DOCUMENTATION HERE **
+# HiveBox
+
+## Project Description
+HiveBox is a scalable REST API that processes environmental sensor data for beekeepers.
+
+## Architecture (High Level)
+- Python API
+- Docker container
+- Kubernetes deployment
+- Redis cache
+- S3 storage
+
+## Workflow Strategy
+- Git Flow branching model
+- Pull request reviews
+- CI pipeline on PR
+
+## Getting Started
