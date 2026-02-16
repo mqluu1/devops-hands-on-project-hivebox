@@ -70,3 +70,4 @@ HiveBox is a scalable REST API that processes environmental sensor data for beek
 - CI pipeline on PR
 
 ## Getting Started
+- Phase 2
